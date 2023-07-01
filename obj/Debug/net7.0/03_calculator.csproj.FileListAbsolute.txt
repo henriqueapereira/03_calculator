@@ -1,0 +1,15 @@
+C:\Users\henrr\OneDrive\Documentos\www\csharpBalta\fundamentos\03_calculator\bin\Debug\net7.0\03_calculator.exe
+C:\Users\henrr\OneDrive\Documentos\www\csharpBalta\fundamentos\03_calculator\bin\Debug\net7.0\03_calculator.deps.json
+C:\Users\henrr\OneDrive\Documentos\www\csharpBalta\fundamentos\03_calculator\bin\Debug\net7.0\03_calculator.runtimeconfig.json
+C:\Users\henrr\OneDrive\Documentos\www\csharpBalta\fundamentos\03_calculator\bin\Debug\net7.0\03_calculator.dll
+C:\Users\henrr\OneDrive\Documentos\www\csharpBalta\fundamentos\03_calculator\bin\Debug\net7.0\03_calculator.pdb
+C:\Users\henrr\OneDrive\Documentos\www\csharpBalta\fundamentos\03_calculator\obj\Debug\net7.0\03_calculator.csproj.AssemblyReference.cache
+C:\Users\henrr\OneDrive\Documentos\www\csharpBalta\fundamentos\03_calculator\obj\Debug\net7.0\03_calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\henrr\OneDrive\Documentos\www\csharpBalta\fundamentos\03_calculator\obj\Debug\net7.0\03_calculator.AssemblyInfoInputs.cache
+C:\Users\henrr\OneDrive\Documentos\www\csharpBalta\fundamentos\03_calculator\obj\Debug\net7.0\03_calculator.AssemblyInfo.cs
+C:\Users\henrr\OneDrive\Documentos\www\csharpBalta\fundamentos\03_calculator\obj\Debug\net7.0\03_calculator.csproj.CoreCompileInputs.cache
+C:\Users\henrr\OneDrive\Documentos\www\csharpBalta\fundamentos\03_calculator\obj\Debug\net7.0\03_calculator.dll
+C:\Users\henrr\OneDrive\Documentos\www\csharpBalta\fundamentos\03_calculator\obj\Debug\net7.0\refint\03_calculator.dll
+C:\Users\henrr\OneDrive\Documentos\www\csharpBalta\fundamentos\03_calculator\obj\Debug\net7.0\03_calculator.pdb
+C:\Users\henrr\OneDrive\Documentos\www\csharpBalta\fundamentos\03_calculator\obj\Debug\net7.0\03_calculator.genruntimeconfig.cache
+C:\Users\henrr\OneDrive\Documentos\www\csharpBalta\fundamentos\03_calculator\obj\Debug\net7.0\ref\03_calculator.dll
